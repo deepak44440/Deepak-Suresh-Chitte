@@ -1,0 +1,8 @@
+{
+  "name": "Gov Battle",
+  "description": "A competitive exam preparation platform for UPSC, SSC, Banking, and more. Features daily battles, leaderboards, and AI-powered mock interviews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
